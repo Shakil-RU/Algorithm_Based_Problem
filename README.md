@@ -1,4 +1,6 @@
 # Design and Analysis of Algorithm
 
-## 1: STL
-## 2: Greedy Approch
+## STL
+### 1) Vector
+ - [syntax](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/syntax.cpp)
+## Greedy Approch
