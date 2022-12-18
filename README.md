@@ -8,3 +8,4 @@
 ### 2) String
 ## Greedy Approch
 - [121,122,123. Best Time to Buy and Sell Stock LeetCode](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/LeetCode_problem121_122_123.cpp)
+- [Movie Festival CSES site](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/movie_festival.cpp)
