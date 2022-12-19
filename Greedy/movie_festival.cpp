@@ -1,32 +1,29 @@
-#include <bits/stdc++.h>
-#define lli long long int
-#define li long int
-#define ld long double
+#include<bits/stdc++.h>
 using namespace std;
-const lli mod = 1e9 + 7;
-
-int main()
+bool sortbysec(const pair<int,int> &a,
+              const pair<int,int> &b)
 {
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	int n, x, y, curr_end = 0, total = 0;
-	vector<pair<int, int>> arr;
-	cin >> n;
-	while (n--)
-	{
-		cin >> x >> y;
-		arr.push_back(make_pair(y, x));
-	}
-	// sorting by ending times
-	sort(arr.begin(), arr.end());
-	for (auto ele : arr)
-	{
-		if (ele.second >= curr_end)
-		{
-			curr_end = ele.first;
-			total++;
-		}
-	}
-	cout << total;
-	return 0;
+    return (a.second < b.second);
+}
+int main(){
+      int  n ;
+      cin >> n ;
+      vector<pair<int , int >> v(n) ;
+
+      for(int i = 0 ; i < n ; i += 1){
+            cin >> v[i].first >> v[i].second ;
+      }
+
+      sort(v.begin() , v.end() , sortbysec) ;
+
+      int cnt = 1 , endTime = v[0].second ;
+      for(int i = 1 ; i < n ; i += 1){
+            if(v[i].first >= endTime){
+                  cnt += 1  ;
+                  endTime = v[i].second ;
+            }
+      }
+      cout << cnt << '\n' ;
+
+      return 0 ;
 }
