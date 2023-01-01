@@ -25,3 +25,7 @@
 |2|[122. Best Time to Buy and Sell Stock II LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/LeetCode_problem121_122_123.cpp)|
 |3|[Movie Festival CSES](https://cses.fi/problemset/task/1629)|greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/movie_festival.cpp)|
 
+## Winter Vacation(Home Task)
+|NO. |Problem's Link |Tag |Solution |
+|:---:|:--:|:----:|:--:|
+|1|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution]()|
