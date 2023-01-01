@@ -28,4 +28,4 @@
 ## Winter Vacation(Home Task)
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
-|1|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution]()|
+|1|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
