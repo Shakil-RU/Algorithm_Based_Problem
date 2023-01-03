@@ -33,7 +33,7 @@
 |3|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
 |4|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
 |5|[A. Rewards](https://codeforces.com/problemset/problem/448/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Rewards.cpp)|
-|6|[]()||[solution]()|
+|6|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
 |7|[]()||[solution]()|
 |8|[]()||[solution]()|
 |9|[]()||[solution]()|
