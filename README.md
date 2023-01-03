@@ -28,10 +28,10 @@
 ## Winter Vacation(Home Task From CodeForces)
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
-|1|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
-|2|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
+|1|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
+|2|[A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soldair%20and%20Bananas.cpp)|
 |3|[]()||[solution]()|
-|4|[]()||[solution]()|
+|4|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
 |5|[]()||[solution]()|
 |6|[]()||[solution]()|
 |7|[]()||[solution]()|
