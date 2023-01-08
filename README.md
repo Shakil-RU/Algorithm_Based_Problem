@@ -34,7 +34,7 @@
 |4|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
 |5|[A. Rewards](https://codeforces.com/problemset/problem/448/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Rewards.cpp)|
 |6|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
-|7|[]()||[solution]()|
+|7|[A. Compote](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
 |8|[]()||[solution]()|
 |9|[]()||[solution]()|
 |10|[]()||[solution]()|
