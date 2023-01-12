@@ -36,7 +36,7 @@
 |5|[A. Rewards](https://codeforces.com/problemset/problem/448/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Rewards.cpp)|
 |6|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
 |7|[A. Compote](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
-|8|[]()||[solution]()|
+|8|[A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)|implementation|[solution]()|
 |9|[]()||[solution]()|
 |10|[]()||[solution]()|
 |11|[]()||[solution]()|
