@@ -29,14 +29,14 @@
 ## Winter Vacation(Home Task From CodeForces)
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
-|1|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
-|2|[A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soldair%20and%20Bananas.cpp)|
-|3|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
-|4|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation/math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
-|5|[A. Rewards](https://codeforces.com/problemset/problem/448/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Rewards.cpp)|
-|6|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
-|7|[A. Compote](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
-|8|[A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Vasya%20The%20Hipster.cpp)|
+|1|[A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soldair%20and%20Bananas.cpp)|
+|2|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
+|3|[A. Rewards](https://codeforces.com/problemset/problem/448/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Rewards.cpp)|
+|4|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
+|5|[A. Compote](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
+|6|[A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Vasya%20The%20Hipster.cpp)|
+|7|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
+|8|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
 |9|[]()||[solution]()|
 |10|[]()||[solution]()|
 |11|[]()||[solution]()|
