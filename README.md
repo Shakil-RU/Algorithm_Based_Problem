@@ -38,7 +38,7 @@
 |7|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
 |8|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
 |9|[B. Anton and Digits](https://codeforces.com/contest/734/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Anton%20and%20Digits.cpp)|
-|10|[1520B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B)|math|[solution]()|
+|10|[1520B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Ordinary%20Numbers.cpp)|
 |11|[]()|math|[solution]()|
 |12|[]()|math|[solution]()|
 |13|[]()||[solution]()|
