@@ -37,10 +37,10 @@
 |6|[A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Vasya%20The%20Hipster.cpp)|
 |7|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
 |8|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
-|9|[]()||[solution]()|
-|10|[]()||[solution]()|
-|11|[]()||[solution]()|
-|12|[]()||[solution]()|
+|9|[B. Anton and Digits](https://codeforces.com/contest/734/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Anton%20and%20Digits.cpp)|
+|10|[]()|math|[solution]()|
+|11|[]()|math|[solution]()|
+|12|[]()|math|[solution]()|
 |13|[]()||[solution]()|
 |14|[]()||[solution]()|
 |15|[]()||[solution]()|
