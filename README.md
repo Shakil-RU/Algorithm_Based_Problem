@@ -71,3 +71,9 @@
 |40|[]()||[solution]()|
 |41|[]()||[solution]()|
 |42|[]()||[solution]()|
+
+## Factorial
+|NO.|Problem's Name|Tag |Solution |
+|:----:|:-----:|:---:|:-----:|
+|1|Trailing Zero|factorial|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/factorial/trailing_zero.cpp)|
+|2|Count digit of a factorial number|factorial|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/factorial/count_digit_of_factorial_number.cpp)|
