@@ -41,10 +41,10 @@
 |10|[1520B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Ordinary%20Numbers.cpp)|
 |11|[B. Equal Candies](https://codeforces.com/problemset/problem/1676/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Equal%20Candies.cpp)|
 |12|[B. Who's Opposite?](https://codeforces.com/problemset/problem/1560/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Who's%20Opposite%3F.cpp)|
-|13|[]()||[solution]()|
-|14|[]()||[solution]()|
-|15|[]()||[solution]()|
-|16|[]()||[solution]()|
+|13|[A. Key races](https://codeforces.com/problemset/problem/835/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Key%20races.cpp)|
+|14|[]()|math|[solution]()|
+|15|[]()|math|[solution]()|
+|16|[]()|math|[solution]()|
 |17|[]()||[solution]()|
 |18|[]()||[solution]()|
 |19|[]()||[solution]()|
