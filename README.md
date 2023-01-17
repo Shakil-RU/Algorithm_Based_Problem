@@ -39,7 +39,7 @@
 |8|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
 |9|[B. Anton and Digits](https://codeforces.com/contest/734/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Anton%20and%20Digits.cpp)|
 |10|[1520B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Ordinary%20Numbers.cpp)|
-|11|[]()|math|[solution]()|
+|11|[B. Equal Candies](https://codeforces.com/problemset/problem/1676/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Equal%20Candies.cpp)|
 |12|[]()|math|[solution]()|
 |13|[]()||[solution]()|
 |14|[]()||[solution]()|
