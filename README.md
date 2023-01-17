@@ -43,7 +43,7 @@
 |12|[B. Who's Opposite?](https://codeforces.com/problemset/problem/1560/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Who's%20Opposite%3F.cpp)|
 |13|[A. Key races](https://codeforces.com/problemset/problem/835/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Key%20races.cpp)|
 |14|[A. Sasha and Sticks](https://codeforces.com/problemset/problem/832/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Sasha%20and%20Sticks.cpp)|
-|15|[]()|math|[solution]()|
+|15|[A. Triangular numbers](https://codeforces.com/problemset/problem/47/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Triangular%20numbers.cpp)|
 |16|[]()|math|[solution]()|
 |17|[]()||[solution]()|
 |18|[]()||[solution]()|
