@@ -44,7 +44,7 @@
 |13|[A. Key races](https://codeforces.com/problemset/problem/835/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Key%20races.cpp)|
 |14|[A. Sasha and Sticks](https://codeforces.com/problemset/problem/832/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Sasha%20and%20Sticks.cpp)|
 |15|[A. Triangular numbers](https://codeforces.com/problemset/problem/47/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Triangular%20numbers.cpp)|
-|16|[]()|math|[solution]()|
+|16|[A. Median Maximization](https://codeforces.com/problemset/problem/1566/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Median%20Maximization.cpp)|
 |17|[]()||[solution]()|
 |18|[]()||[solution]()|
 |19|[]()||[solution]()|
