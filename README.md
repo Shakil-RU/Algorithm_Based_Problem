@@ -49,7 +49,7 @@
 |18|[B. Fix You](https://codeforces.com/problemset/problem/1391/B)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Fix%20You.cpp)|
 |19|[A. Koxia and Whiteboards](https://codeforces.com/problemset/problem/1770/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Koxia%20and%20Whiteboards.cpp)|
 |20|[A. Maximum in Table](https://codeforces.com/problemset/problem/509/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Maximum%20in%20Table.cpp)|
-|21|[]()|Brute Force|[solution]()|
+|21|[C. Most Similar Words](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/C.%20Most%20Similar%20Words.cpp)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/C.%20Most%20Similar%20Words.cpp)|
 |22|[]()|Brute Force|[solution]()|
 |23|[]()||[solution]()|
 |24|[]()||[solution]()|
