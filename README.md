@@ -46,7 +46,7 @@
 |15|[A. Triangular numbers](https://codeforces.com/problemset/problem/47/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Triangular%20numbers.cpp)|
 |16|[A. Median Maximization](https://codeforces.com/problemset/problem/1566/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Median%20Maximization.cpp)|
 |17|[C. Cypher](https://codeforces.com/problemset/problem/1703/C)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/C.%20Cypher.cpp)|
-|18|[]()|Brute Force|[solution]()|
+|18|[B. Fix You](https://codeforces.com/problemset/problem/1391/B)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Fix%20You.cpp)|
 |19|[]()|Brute Force|[solution]()|
 |20|[]()|Brute Force|[solution]()|
 |21|[]()|Brute Force|[solution]()|
