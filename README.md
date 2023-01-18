@@ -45,7 +45,7 @@
 |14|[A. Sasha and Sticks](https://codeforces.com/problemset/problem/832/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Sasha%20and%20Sticks.cpp)|
 |15|[A. Triangular numbers](https://codeforces.com/problemset/problem/47/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Triangular%20numbers.cpp)|
 |16|[A. Median Maximization](https://codeforces.com/problemset/problem/1566/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Median%20Maximization.cpp)|
-|17|[]()||[solution]()|
+|17|[C. Cypher](https://codeforces.com/problemset/problem/1703/C)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/C.%20Cypher.cpp)|
 |18|[]()||[solution]()|
 |19|[]()||[solution]()|
 |20|[]()||[solution]()|
