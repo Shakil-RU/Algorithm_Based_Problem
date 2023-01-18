@@ -47,7 +47,7 @@
 |16|[A. Median Maximization](https://codeforces.com/problemset/problem/1566/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Median%20Maximization.cpp)|
 |17|[C. Cypher](https://codeforces.com/problemset/problem/1703/C)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/C.%20Cypher.cpp)|
 |18|[B. Fix You](https://codeforces.com/problemset/problem/1391/B)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Fix%20You.cpp)|
-|19|[]()|Brute Force|[solution]()|
+|19|[A. Koxia and Whiteboards](https://codeforces.com/problemset/problem/1770/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Koxia%20and%20Whiteboards.cpp)|
 |20|[]()|Brute Force|[solution]()|
 |21|[]()|Brute Force|[solution]()|
 |22|[]()|Brute Force|[solution]()|
