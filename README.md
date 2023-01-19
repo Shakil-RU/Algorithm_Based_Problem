@@ -1,21 +1,13 @@
 # Design and Analysis of Algorithm
+
+
+
 ## STL
 |NO.|Problem's Link |Tag |Solution |
 |:----:|:-----:|:---:|:-----:|
 |1|Syntax|Vector|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/syntax.cpp)|
 |2|[A. Sereja and Dima codeforces](https://codeforces.com/problemset/problem/381/A)|Vector |[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/sereja_and_dima.cpp)|
 |3|[852. Peak Index in a Mountain Array LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Vector |[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/mountain_array.cpp)|
-
-## Searching
-|NO.|Problem's Link |Tag |Solution |
-|:----:|:-----:|:---:|:-----:|
-
-
-
-## Sorting
-|NO.|Problem's Link |Tag |Solution |
-|:----:|:-----:|:---:|:-----:|
-
 
 
 ## Greedy Approch
@@ -26,7 +18,10 @@
 |3|[Movie Festival CSES](https://cses.fi/problemset/task/1629)|greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/movie_festival.cpp)|
 |4|[A. Hit the Lottery(CF)](https://codeforces.com/problemset/problem/996/A)|Greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Hit%20the%20Lottery.cpp)|
 
-## Winter Vacation(Home Task From CodeForces)
+
+## ✨Implementation To Geometry All Problems Are Taken From Codeforces.
+
+## Implementation
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
 |1|[A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soldair%20and%20Bananas.cpp)|
@@ -35,6 +30,10 @@
 |4|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
 |5|[A. Compote](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
 |6|[A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Vasya%20The%20Hipster.cpp)|
+
+## Math
+|NO. |Problem's Link |Tag |Solution |
+|:---:|:--:|:----:|:--:|
 |7|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
 |8|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
 |9|[B. Anton and Digits](https://codeforces.com/contest/734/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Anton%20and%20Digits.cpp)|
@@ -45,6 +44,10 @@
 |14|[A. Sasha and Sticks](https://codeforces.com/problemset/problem/832/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Sasha%20and%20Sticks.cpp)|
 |15|[A. Triangular numbers](https://codeforces.com/problemset/problem/47/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Triangular%20numbers.cpp)|
 |16|[A. Median Maximization](https://codeforces.com/problemset/problem/1566/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Median%20Maximization.cpp)|
+
+## Brute Force
+|NO. |Problem's Link |Tag |Solution |
+|:---:|:--:|:----:|:--:|
 |17|[C. Cypher](https://codeforces.com/problemset/problem/1703/C)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/C.%20Cypher.cpp)|
 |18|[B. Fix You](https://codeforces.com/problemset/problem/1391/B)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Fix%20You.cpp)|
 |19|[A. Koxia and Whiteboards](https://codeforces.com/problemset/problem/1770/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Koxia%20and%20Whiteboards.cpp)|
@@ -76,6 +79,7 @@
 |35|[]()||[solution]()|
 |36|[]()||[solution]()|
 
+
 ## Geometry
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
@@ -86,8 +90,21 @@
 |41|[]()||[solution]()|
 |42|[]()||[solution]()|
 
+
 ## Factorial
 |NO.|Problem's Name|Tag |Solution |
 |:----:|:-----:|:---:|:-----:|
 |1|[Trailing Zeros(CSES)](https://cses.fi/problemset/task/1618)|factorial|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/factorial/trailing_zero.cpp)|
 |2|Count digit of a factorial number|factorial|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/factorial/count_digit_of_factorial_number.cpp)|
+
+
+## Searching
+|NO.|Problem's Link |Tag |Solution |
+|:----:|:-----:|:---:|:-----:|
+
+
+## Sorting
+|NO.|Problem's Link |Tag |Solution |
+|:----:|:-----:|:---:|:-----:|
+
+
