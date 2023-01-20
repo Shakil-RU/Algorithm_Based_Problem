@@ -60,7 +60,7 @@
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
 |23|[A. Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Design%20Tutorial:%20Learn%20from%20Math.cpp)|
-|24|[]()|[solution]()|
+|24|[B. GCD Arrays](https://codeforces.com/problemset/problem/1629/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/B.%20GCD%20Arrays.cpp)|
 |25|[]()|[solution]()|
 |26|[]()|[solution]()|
 |27|[]()|[solution]()|
