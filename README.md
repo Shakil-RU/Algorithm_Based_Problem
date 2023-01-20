@@ -66,7 +66,7 @@
 |27|[A. LCM Problem](https://codeforces.com/problemset/problem/1389/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20LCM%20Problem.cpp)|
 |28|[A. Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Gregor%20and%20Cryptography.cpp)|
 |29|[A. Digits Sum](https://codeforces.com/problemset/problem/1553/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Digits%20Sum.cpp)|
-|30|[]()|[solution]()|
+|30|[A. Strange Functions](https://codeforces.com/problemset/problem/1455/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Strange%20Functions.cpp)|
 
 
 ## Constructive Algorithm
