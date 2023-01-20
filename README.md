@@ -72,12 +72,12 @@
 ## Constructive Algorithm
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
-|31|[]()||[solution]()|
-|32|[]()||[solution]()|
-|33|[]()||[solution]()|
-|34|[]()||[solution]()|
-|35|[]()||[solution]()|
-|36|[]()||[solution]()|
+|31|[A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Anton%20and%20Letters.cpp)|
+|32|[]()|[solution]()|
+|33|[]()|[solution]()|
+|34|[]()|[solution]()|
+|35|[]()|[solution]()|
+|36|[]()|[solution]()|
 
 
 ## Geometry
