@@ -63,7 +63,7 @@
 |24|[B. GCD Arrays](https://codeforces.com/problemset/problem/1629/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/B.%20GCD%20Arrays.cpp)|
 |25|[A. Maximum GCD](https://codeforces.com/problemset/problem/1370/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Maximum%20GCD.cpp)|
 |26|[A. EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20EhAb%20AnD%20gCd.cpp)|
-|27|[]()|[solution]()|
+|27|[A. LCM Problem](https://codeforces.com/problemset/problem/1389/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20LCM%20Problem.cpp)|
 |28|[]()|[solution]()|
 |29|[]()|[solution]()|
 |30|[]()|[solution]()|
