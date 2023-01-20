@@ -64,7 +64,7 @@
 |25|[A. Maximum GCD](https://codeforces.com/problemset/problem/1370/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Maximum%20GCD.cpp)|
 |26|[A. EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20EhAb%20AnD%20gCd.cpp)|
 |27|[A. LCM Problem](https://codeforces.com/problemset/problem/1389/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20LCM%20Problem.cpp)|
-|28|[]()|[solution]()|
+|28|[A. Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Gregor%20and%20Cryptography.cpp)|
 |29|[]()|[solution]()|
 |30|[]()|[solution]()|
 
