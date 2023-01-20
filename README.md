@@ -59,14 +59,14 @@
 ## Number Theory
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
-|23|[]()||[solution]()|
-|24|[]()||[solution]()|
-|25|[]()||[solution]()|
-|26|[]()||[solution]()|
-|27|[]()||[solution]()|
-|28|[]()||[solution]()|
-|29|[]()||[solution]()|
-|30|[]()||[solution]()|
+|23|[A. Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Design%20Tutorial:%20Learn%20from%20Math.cpp)|
+|24|[]()|[solution]()|
+|25|[]()|[solution]()|
+|26|[]()|[solution]()|
+|27|[]()|[solution]()|
+|28|[]()|[solution]()|
+|29|[]()|[solution]()|
+|30|[]()|[solution]()|
 
 
 ## Constructive Algorithm
