@@ -73,7 +73,7 @@
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
 |31|[A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Anton%20and%20Letters.cpp)|
-|32|[]()|[solution]()|
+|32|[A. Buy a Shovel](https://codeforces.com/problemset/problem/732/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Buy%20a%20Shovel.cpp)|
 |33|[]()|[solution]()|
 |34|[]()|[solution]()|
 |35|[]()|[solution]()|
