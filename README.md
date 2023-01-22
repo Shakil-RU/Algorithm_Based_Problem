@@ -84,7 +84,7 @@
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
 |37|[A. Construct a Rectangle](https://codeforces.com/problemset/problem/1622/A)||[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Construct%20a%20Rectangle.cpp)|
-|38|[]()||[solution]()|
+|38|[A. FashionabLee](https://codeforces.com/problemset/problem/1369/A)||[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20FashionabLee.cpp)|
 |39|[]()||[solution]()|
 |40|[]()||[solution]()|
 |41|[]()||[solution]()|
