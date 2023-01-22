@@ -74,7 +74,7 @@
 |:---:|:---:|:---:|
 |31|[A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Anton%20and%20Letters.cpp)|
 |32|[A. Buy a Shovel](https://codeforces.com/problemset/problem/732/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Buy%20a%20Shovel.cpp)|
-|33|[]()|[solution]()|
+|33|[B. Balanced Array](https://codeforces.com/problemset/problem/1343/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/B.%20Balanced%20Array.cpp)|
 |34|[]()|[solution]()|
 |35|[]()|[solution]()|
 |36|[]()|[solution]()|
