@@ -83,12 +83,11 @@
 ## Geometry
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
-|37|[A. Construct a Rectangle](https://codeforces.com/problemset/problem/1622/A)||[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Construct%20a%20Rectangle.cpp)|
-|38|[A. FashionabLee](https://codeforces.com/problemset/problem/1369/A)||[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20FashionabLee.cpp)|
-|39|[]()||[solution]()|
+|37|[A. Construct a Rectangle](https://codeforces.com/problemset/problem/1622/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Construct%20a%20Rectangle.cpp)|
+|38|[A. FashionabLee](https://codeforces.com/problemset/problem/1369/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20FashionabLee.cpp)|
+|39|[A. Bad Triangle](https://codeforces.com/problemset/problem/1398/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Bad%20Triangle.cpp)|
 |40|[]()||[solution]()|
-|41|[]()||[solution]()|
-|42|[]()||[solution]()|
+
 
 
 ## Factorial
