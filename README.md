@@ -76,7 +76,7 @@
 |32|[A. Buy a Shovel](https://codeforces.com/problemset/problem/732/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Buy%20a%20Shovel.cpp)|
 |33|[B. Balanced Array](https://codeforces.com/problemset/problem/1343/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/B.%20Balanced%20Array.cpp)|
 |34|[A. Round Down the Price](https://codeforces.com/problemset/problem/1702/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Round%20Down%20the%20Price.cpp)|
-|35|[]()|[solution]()|
+|35|[A. Average Height](https://codeforces.com/problemset/problem/1509/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Average%20Height.cpp)|
 |36|[]()|[solution]()|
 
 
