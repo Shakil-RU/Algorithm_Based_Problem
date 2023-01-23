@@ -111,6 +111,6 @@
 |:---:|:--:|:----:|:--:|
 |1|[D - Number of Shortest paths(Atcpder)](https://atcoder.jp/contests/abc211/tasks/abc211_d)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/D%20-%20Number%20of%20Shortest%20paths%20.cpp)|
 |2|[102. Binary Tree Level Order Traversal(LeetCode)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|
-|3|[]()||[solution]()|
+|3|[104. Maximum Depth of Binary Tree(LeetCode)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)|
 |4|[]()||[solution]()|
 |5|[]()||[solution]()|
