@@ -30,6 +30,7 @@
 |4|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
 |5|[A. Compote](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
 |6|[A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Vasya%20The%20Hipster.cpp)|
+|7|[E. Mirror Grid](https://codeforces.com/contest/1703/problem/E)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Implementation/E.%20Mirror%20Grid.cpp)|
 
 ## Math
 |NO. |Problem's Link |Tag |Solution |
