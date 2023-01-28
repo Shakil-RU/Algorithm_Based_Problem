@@ -17,6 +17,9 @@
 |2|[122. Best Time to Buy and Sell Stock II LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/LeetCode_problem121_122_123.cpp)|
 |3|[Movie Festival CSES](https://cses.fi/problemset/task/1629)|greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/movie_festival.cpp)|
 |4|[A. Hit the Lottery(CF)](https://codeforces.com/problemset/problem/996/A)|Greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Hit%20the%20Lottery.cpp)|
+|5|[C. Frog Jumps](https://codeforces.com/contest/1324/problem/C)|Greedy|[Solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/C.%20Frog%20Jumps.cpp)|
+|6|[]()|Greedy|[Solution]()|
+
 
 
 ## ✨Implementation To Geometry All Problems Are Taken From Codeforces.
