@@ -118,3 +118,15 @@
 |3|[104. Maximum Depth of Binary Tree(LeetCode)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)|
 |4|[1971. Find if Path Exists in Graph(LeetCode)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/1971.%20Find%20if%20Path%20Exists%20in%20Graph.cpp)|
 |5|[]()||[solution]()|
+
+
+
+## Bitmasks
+|NO. |Problem's Link|Solution |
+|:---:|:--:|:--:|
+|1|[A. And Then There Were K (Codeforces)](https://codeforces.com/problemset/problem/1527/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Bitmasks/A.%20And%20Then%20There%20Were%20K.cpp)|
+|2|[]()|[solution]()|
+|3|[]()|[solution]()|
+|4|[]()|[solution]()|
+
+
