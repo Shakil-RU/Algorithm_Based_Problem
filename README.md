@@ -8,6 +8,10 @@
 |1|Syntax|Vector|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/syntax.cpp)|
 |2|[A. Sereja and Dima codeforces](https://codeforces.com/problemset/problem/381/A)|Vector |[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/sereja_and_dima.cpp)|
 |3|[852. Peak Index in a Mountain Array LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Vector |[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/mountain_array.cpp)|
+|4|[A. String Task](https://codeforces.com/problemset/problem/118/A)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/A.%20String%20Task.cpp)|
+|5|[]()|String|[solution]()|
+|6|[]()|String|[solution]()|
+|7|[]()|String|[solution]()|
 
 
 ## Greedy Approch
