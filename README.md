@@ -126,7 +126,7 @@
 |:---:|:--:|:--:|
 |1|[A. And Then There Were K (Codeforces)](https://codeforces.com/problemset/problem/1527/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Bitmasks/A.%20And%20Then%20There%20Were%20K.cpp)|
 |2|[A. XOR Mixup](https://codeforces.com/problemset/problem/1698/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Bitmasks/A.%20XOR%20Mixup.cpp)|
-|3|[]()|[solution]()|
+|3|[A. Cirno's Perfect Bitmasks Classroom](https://codeforces.com/problemset/problem/1688/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Bitmasks/A.%20Cirno's%20Perfect%20Bitmasks%20Classroom.cpp)|
 |4|[]()|[solution]()|
 
 
