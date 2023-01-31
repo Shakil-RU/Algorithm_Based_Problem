@@ -117,7 +117,7 @@
 |2|[102. Binary Tree Level Order Traversal(LeetCode)](https://leetcode.com/problems/binary-tree-level-order-traversal/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp)|
 |3|[104. Maximum Depth of Binary Tree(LeetCode)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)|
 |4|[1971. Find if Path Exists in Graph(LeetCode)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/1971.%20Find%20if%20Path%20Exists%20in%20Graph.cpp)|
-|5|BFS greedy|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/bfs_grid.cpp)|
+|5|BFS grid|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/bfs_grid.cpp)|
 |6|[]()||[Solution]()|
 |6|[]()||[Solution]()|
 
