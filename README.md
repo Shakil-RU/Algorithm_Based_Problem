@@ -11,7 +11,7 @@
 |4|[A. String Task (Codeforces)](https://codeforces.com/problemset/problem/118/A)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/A.%20String%20Task.cpp)|
 |5|[The Palindrome(HackerEarth)](https://www.hackerearth.com/problem/algorithm/the-palindrome-2/?purpose=signup&source=problem-page&update=google)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/The%20Palindrome.cpp)|
 |6|Mini_Sub_String|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/Mini_sub_string.cpp)|
-|7|[]()|String|[solution]()|
+|7|[A. Haiku (Codeforces)](https://codeforces.com/contest/78/problem/A)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/A.%20Haiku.cpp)|
 
 
 ## Greedy Approch
