@@ -10,7 +10,7 @@
 |3|[852. Peak Index in a Mountain Array LeetCode](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Vector |[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Vector/mountain_array.cpp)|
 |4|[A. String Task (Codeforces)](https://codeforces.com/problemset/problem/118/A)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/A.%20String%20Task.cpp)|
 |5|[The Palindrome(HackerEarth)](https://www.hackerearth.com/problem/algorithm/the-palindrome-2/?purpose=signup&source=problem-page&update=google)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/The%20Palindrome.cpp)|
-|6|[]()|String|[solution]()|
+|6|Mini_Sub_String|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/Mini_sub_string.cpp)|
 |7|[]()|String|[solution]()|
 
 
@@ -21,7 +21,7 @@
 |2|[122. Best Time to Buy and Sell Stock II LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/LeetCode_problem121_122_123.cpp)|
 |3|[Movie Festival CSES](https://cses.fi/problemset/task/1629)|greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/movie_festival.cpp)|
 |4|[A. Hit the Lottery(CF)](https://codeforces.com/problemset/problem/996/A)|Greedy|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Hit%20the%20Lottery.cpp)|
-|5|[C. Frog Jumps](https://codeforces.com/contest/1324/problem/C)|Greedy|[Solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/C.%20Frog%20Jumps.cpp)|
+|5|[C. Frog Jumps (Codeforces)](https://codeforces.com/contest/1324/problem/C)|Greedy|[Solution](https://github.com/Shakil-RU/Algorithm/blob/main/Greedy/C.%20Frog%20Jumps.cpp)|
 |6|[]()|Greedy|[Solution]()|
 
 
@@ -31,70 +31,70 @@
 ## Implementation
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
-|1|[A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soldair%20and%20Bananas.cpp)|
-|2|[A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
-|3|[A. Rewards](https://codeforces.com/problemset/problem/448/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Rewards.cpp)|
-|4|[A. Patrick and Shopping](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
-|5|[A. Compote](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
-|6|[A. Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Vasya%20The%20Hipster.cpp)|
-|7|[E. Mirror Grid](https://codeforces.com/contest/1703/problem/E)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Implementation/E.%20Mirror%20Grid.cpp)|
+|1|[A. Soldier and Bananas (Codeforces)](https://codeforces.com/problemset/problem/546/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soldair%20and%20Bananas.cpp)|
+|2|[A. Soft Drinking (Codeforces)](https://codeforces.com/problemset/problem/151/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Soft%20Drinking.cpp)|
+|3|[A. Rewards (Codeforces)](https://codeforces.com/problemset/problem/448/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Rewards.cpp)|
+|4|[A. Patrick and Shopping (Codeforces)](https://codeforces.com/problemset/problem/599/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Patrick%20and%20Shopping.cpp)|
+|5|[A. Compote (Codeforces)](https://codeforces.com/problemset/problem/746/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Compote.cpp)|
+|6|[A. Vasya the Hipster (Codeforces)](https://codeforces.com/problemset/problem/581/A)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Vasya%20The%20Hipster.cpp)|
+|7|[E. Mirror Grid (Codeforces)](https://codeforces.com/contest/1703/problem/E)|implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Implementation/E.%20Mirror%20Grid.cpp)|
 
 ## Math
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
-|7|[A. Elephant](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
-|8|[A. Taymyr is calling you](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
-|9|[B. Anton and Digits](https://codeforces.com/contest/734/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Anton%20and%20Digits.cpp)|
-|10|[1520B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Ordinary%20Numbers.cpp)|
-|11|[B. Equal Candies](https://codeforces.com/problemset/problem/1676/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Equal%20Candies.cpp)|
-|12|[B. Who's Opposite?](https://codeforces.com/problemset/problem/1560/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Who's%20Opposite%3F.cpp)|
-|13|[A. Key races](https://codeforces.com/problemset/problem/835/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Key%20races.cpp)|
-|14|[A. Sasha and Sticks](https://codeforces.com/problemset/problem/832/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Sasha%20and%20Sticks.cpp)|
-|15|[A. Triangular numbers](https://codeforces.com/problemset/problem/47/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Triangular%20numbers.cpp)|
-|16|[A. Median Maximization](https://codeforces.com/problemset/problem/1566/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Median%20Maximization.cpp)|
+|1|[A. Elephant (Codeforces)](https://codeforces.com/problemset/problem/617/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Elephant.cpp)|
+|2|[A. Taymyr is calling you (Codeforces)](https://codeforces.com/problemset/problem/764/A)|Math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Taymyr%20is%20calling%20you.CPP)|
+|3|[B. Anton and Digits (Codeforces)](https://codeforces.com/contest/734/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Anton%20and%20Digits.cpp)|
+|4|[1520B - Ordinary Numbers (Codeforces)](https://codeforces.com/contest/1520/problem/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Ordinary%20Numbers.cpp)|
+|5|[B. Equal Candies (Codeforces)](https://codeforces.com/problemset/problem/1676/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Equal%20Candies.cpp)|
+|6|[B. Who's Opposite? (Codeforces)](https://codeforces.com/problemset/problem/1560/B)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Who's%20Opposite%3F.cpp)|
+|7|[A. Key races (Codeforces)](https://codeforces.com/problemset/problem/835/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Key%20races.cpp)|
+|8|[A. Sasha and Sticks (Codeforces)](https://codeforces.com/problemset/problem/832/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Sasha%20and%20Sticks.cpp)|
+|9|[A. Triangular numbers (Codeforces)](https://codeforces.com/problemset/problem/47/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Triangular%20numbers.cpp)|
+|10|[A. Median Maximization (Codeforces)](https://codeforces.com/problemset/problem/1566/A)|math|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/A.%20Median%20Maximization.cpp)|
 
 ## Brute Force
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
-|17|[C. Cypher](https://codeforces.com/problemset/problem/1703/C)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/C.%20Cypher.cpp)|
-|18|[B. Fix You](https://codeforces.com/problemset/problem/1391/B)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Fix%20You.cpp)|
-|19|[A. Koxia and Whiteboards](https://codeforces.com/problemset/problem/1770/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Koxia%20and%20Whiteboards.cpp)|
-|20|[A. Maximum in Table](https://codeforces.com/problemset/problem/509/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Maximum%20in%20Table.cpp)|
-|21|[C. Most Similar Words](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/C.%20Most%20Similar%20Words.cpp)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/C.%20Most%20Similar%20Words.cpp)|
-|22|[B. Perfect Number](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/919B.cpp)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/B.%20Perfect%20Number.cpp)|
+|1|[C. Cypher (Codeforces)](https://codeforces.com/problemset/problem/1703/C)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/C.%20Cypher.cpp)|
+|2|[B. Fix You (Codeforces)](https://codeforces.com/problemset/problem/1391/B)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/winter_vacation/B.%20Fix%20You.cpp)|
+|3|[A. Koxia and Whiteboards (Codeforces)](https://codeforces.com/problemset/problem/1770/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Koxia%20and%20Whiteboards.cpp)|
+|4|[A. Maximum in Table (Codeforces)](https://codeforces.com/problemset/problem/509/A)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/A.%20Maximum%20in%20Table.cpp)|
+|5|[C. Most Similar Words (Codeforces)](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/C.%20Most%20Similar%20Words.cpp)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/C.%20Most%20Similar%20Words.cpp)|
+|6|[B. Perfect Number (Codeforces)](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/919B.cpp)|Brute Force|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Brute%20Force/B.%20Perfect%20Number.cpp)|
 
 
 ## Number Theory
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
-|23|[A. Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Design%20Tutorial:%20Learn%20from%20Math.cpp)|
-|24|[B. GCD Arrays](https://codeforces.com/problemset/problem/1629/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/B.%20GCD%20Arrays.cpp)|
-|25|[A. Maximum GCD](https://codeforces.com/problemset/problem/1370/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Maximum%20GCD.cpp)|
-|26|[A. EhAb AnD gCd](https://codeforces.com/contest/1325/problem/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20EhAb%20AnD%20gCd.cpp)|
-|27|[A. LCM Problem](https://codeforces.com/problemset/problem/1389/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20LCM%20Problem.cpp)|
-|28|[A. Gregor and Cryptography](https://codeforces.com/problemset/problem/1549/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Gregor%20and%20Cryptography.cpp)|
-|29|[A. Digits Sum](https://codeforces.com/problemset/problem/1553/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Digits%20Sum.cpp)|
-|30|[A. Strange Functions](https://codeforces.com/problemset/problem/1455/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Strange%20Functions.cpp)|
+|1|[A. Design Tutorial: Learn from Math (Codeforces)](https://codeforces.com/problemset/problem/472/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Design%20Tutorial:%20Learn%20from%20Math.cpp)|
+|2|[B. GCD Arrays (Codeforces)](https://codeforces.com/problemset/problem/1629/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/B.%20GCD%20Arrays.cpp)|
+|3|[A. Maximum GCD (Codeforces)](https://codeforces.com/problemset/problem/1370/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Maximum%20GCD.cpp)|
+|4|[A. EhAb AnD gCd (Codeforces)](https://codeforces.com/contest/1325/problem/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20EhAb%20AnD%20gCd.cpp)|
+|5|[A. LCM Problem (Codeforces)](https://codeforces.com/problemset/problem/1389/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20LCM%20Problem.cpp)|
+|6|[A. Gregor and Cryptography (Codeforces)](https://codeforces.com/problemset/problem/1549/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Gregor%20and%20Cryptography.cpp)|
+|7|[A. Digits Sum (Codeforces)](https://codeforces.com/problemset/problem/1553/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Digits%20Sum.cpp)|
+|8|[A. Strange Functions (Codeforces)](https://codeforces.com/problemset/problem/1455/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Number%20Theory/A.%20Strange%20Functions.cpp)|
 
 
 ## Constructive Algorithm
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
-|31|[A. Anton and Letters](https://codeforces.com/problemset/problem/443/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Anton%20and%20Letters.cpp)|
-|32|[A. Buy a Shovel](https://codeforces.com/problemset/problem/732/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Buy%20a%20Shovel.cpp)|
-|33|[B. Balanced Array](https://codeforces.com/problemset/problem/1343/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/B.%20Balanced%20Array.cpp)|
-|34|[A. Round Down the Price](https://codeforces.com/problemset/problem/1702/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Round%20Down%20the%20Price.cpp)|
-|35|[A. Average Height](https://codeforces.com/problemset/problem/1509/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Average%20Height.cpp)|
-|36|[A. Levko and Table](https://codeforces.com/problemset/problem/361/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Levko%20and%20Table.cpp)|
+|1|[A. Anton and Letters (Codeforces)](https://codeforces.com/problemset/problem/443/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Anton%20and%20Letters.cpp)|
+|2|[A. Buy a Shovel (Codeforces)](https://codeforces.com/problemset/problem/732/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Buy%20a%20Shovel.cpp)|
+|3|[B. Balanced Array (Codeforces)](https://codeforces.com/problemset/problem/1343/B)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/B.%20Balanced%20Array.cpp)|
+|4|[A. Round Down the Price (Codeforces)](https://codeforces.com/problemset/problem/1702/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Round%20Down%20the%20Price.cpp)|
+|5|[A. Average Height (Codeforces)](https://codeforces.com/problemset/problem/1509/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Average%20Height.cpp)|
+|6|[A. Levko and Table (Codeforces)](https://codeforces.com/problemset/problem/361/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Constructive%20Algorithm/A.%20Levko%20and%20Table.cpp)|
 
 
 ## Geometry
 |No|Problem's Name|Solution|
 |:---:|:---:|:---:|
-|37|[A. Construct a Rectangle](https://codeforces.com/problemset/problem/1622/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Construct%20a%20Rectangle.cpp)|
-|38|[A. FashionabLee](https://codeforces.com/problemset/problem/1369/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20FashionabLee.cpp)|
-|39|[A. Bad Triangle](https://codeforces.com/problemset/problem/1398/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Bad%20Triangle.cpp)|
-|40|[A. Two Regular Polygons](https://codeforces.com/problemset/problem/1312/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Two%20Regular%20Polygons.cpp)|
+|1|[A. Construct a Rectangle (Codeforces)](https://codeforces.com/problemset/problem/1622/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Construct%20a%20Rectangle.cpp)|
+|2|[A. FashionabLee (Codeforces)](https://codeforces.com/problemset/problem/1369/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20FashionabLee.cpp)|
+|3|[A. Bad Triangle (Codeforces)](https://codeforces.com/problemset/problem/1398/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Bad%20Triangle.cpp)|
+|4|[A. Two Regular Polygons (Codeforces)](https://codeforces.com/problemset/problem/1312/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Geometry/A.%20Two%20Regular%20Polygons.cpp)|
 
 
 
