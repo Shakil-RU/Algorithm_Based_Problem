@@ -123,7 +123,8 @@
 |4|[1971. Find if Path Exists in Graph(LeetCode)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/1971.%20Find%20if%20Path%20Exists%20in%20Graph.cpp)|
 |5|BFS grid|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/bfs_grid.cpp)|
 |6|[]()||[Solution]()|
-|6|[]()||[Solution]()|
+|7|[]()||[Solution]()|
+|8|[]()||[Solution]()|
 
 
 ## Bitmasks
