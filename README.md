@@ -12,6 +12,7 @@
 |5|[The Palindrome(HackerEarth)](https://www.hackerearth.com/problem/algorithm/the-palindrome-2/?purpose=signup&source=problem-page&update=google)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/The%20Palindrome.cpp)|
 |6|Mini_Sub_String|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/Mini_sub_string.cpp)|
 |7|[A. Haiku (Codeforces)](https://codeforces.com/contest/78/problem/A)|String|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/A.%20Haiku.cpp)|
+|8|[D. Distinct Split(CodeForces)](https://codeforces.com/contest/1791/problem/D)|string|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/D.%20Distinct%20Split.cpp)|
 
 
 ## Greedy Approch
