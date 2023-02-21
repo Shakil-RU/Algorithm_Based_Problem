@@ -137,4 +137,14 @@
 |3|[A. Cirno's Perfect Bitmasks Classroom(Codeforces)](https://codeforces.com/problemset/problem/1688/A)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Bitmasks/A.%20Cirno's%20Perfect%20Bitmasks%20Classroom.cpp)|
 |4|[Single Number(InterviewBit)](https://www.interviewbit.com/problems/single-number/)|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Bitmasks/Single%20Number.cpp)|
 
+## String Processing
+|NO. |Problem's Link |Tag |Solution |
+|:---:|:--:|:----:|:--:|
+|1|[B. String LCM(Codeforces)](https://codeforces.com/contest/1473/problem/B)|string lcm|[solution]()|
+|2|[]()|string lcm|[solution]()|
+|3|[]()|string lcm|[solution]()|
+|4|[]()|string lcm|[solution]()|
+|5|[]()|string lcm|[solution]()|
+|6|[]()|string lcm|[solution]()|
+
 
