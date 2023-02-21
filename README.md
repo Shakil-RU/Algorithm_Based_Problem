@@ -140,11 +140,11 @@
 ## String Processing
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
-|1|[B. String LCM(Codeforces)](https://codeforces.com/contest/1473/problem/B)|string lcm|[solution]()|
-|2|[]()|string lcm|[solution]()|
-|3|[]()|string lcm|[solution]()|
-|4|[]()|string lcm|[solution]()|
-|5|[]()|string lcm|[solution]()|
-|6|[]()|string lcm|[solution]()|
+|1|[B. String LCM(Codeforces)](https://codeforces.com/contest/1473/problem/B)|string lcm|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/String%20Processing/B.%20String%20LCM.cpp)|
+|2|[]()||[solution]()|
+|3|[]()||[solution]()|
+|4|[]()||[solution]()|
+|5|[]()||[solution]()|
+|6|[]()||[solution]()|
 
 
