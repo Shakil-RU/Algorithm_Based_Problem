@@ -148,3 +148,13 @@
 |6|[]()||[solution]()|
 
 
+
+
+## Lab Test-1
+|NO. |Problem's Link |Tag |Solution |
+|:---:|:--:|:----:|:--:|
+|1|[B. Reverse String](https://codeforces.com/contest/1553/problem/B)|Hashing|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Hashing/B.%20Reverse%20Strings.cpp)|
+|2|[]()||[solution]()|
+|3|[]()||[solution]()|
+
+
