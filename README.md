@@ -154,7 +154,7 @@
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
 |1|[B. Reverse String](https://codeforces.com/contest/1553/problem/B)|Hashing|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Hashing/B.%20Reverse%20Strings.cpp)|
-|2|[]()||[solution]()|
+|2|[B. Deadly Laser](https://codeforces.com/contest/1721/problem/B)|Implementation|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Implementation/B.%20Deadly%20Laser.cpp)|
 |3|[]()||[solution]()|
 
 
