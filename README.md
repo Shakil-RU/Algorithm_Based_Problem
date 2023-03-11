@@ -15,7 +15,14 @@
 |8|[D. Distinct Split(CodeForces)](https://codeforces.com/contest/1791/problem/D)|string|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/D.%20Distinct%20Split.cpp)|
 |9|[B. Mirror in the String(Codeforces)](https://codeforces.com/problemset/problem/1616/B)|string|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/String/B.%20Mirror%20in%20the%20String.cpp)|
 |10|[A. Integer Diversity(Codeforces)](https://codeforces.com/contest/1616/problem/A)|Map|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/Map/A.%20Integer%20Diversity.cpp)|
-|||||
+|11|[A. Indian Summer(CodeForces)](https://codeforces.com/contest/44/problem/A)|pair|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/pair/A.%20Indian%20Summer.cpp)|
+|13|[]()|pair|[solution]()|
+|14|[]()|pair|[solution]()|
+|15|[]()|pair|[solution]()|
+|16|[]()|pair|[solution]()|
+
+
+
 ## Greedy Approch
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
