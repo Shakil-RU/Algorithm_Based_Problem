@@ -18,9 +18,6 @@
 |11|[A. Indian Summer(CodeForces)](https://codeforces.com/contest/44/problem/A)|pair|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/pair/A.%20Indian%20Summer.cpp)|
 |13|[A. Rank List(Codeforces)](https://codeforces.com/problemset/problem/166/A)|pair|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/STL/pair/A.%20Rank%20List.cpp)|
 |14|[]()||[solution]()|
-|15|[]()||[solution]()|
-|16|[]()||[solution]()|
-
 
 
 ## Greedy Approch
@@ -113,16 +110,6 @@
 |1|[Trailing Zeros(CSES)](https://cses.fi/problemset/task/1618)|factorial|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/factorial/trailing_zero.cpp)|
 |2|Count digit of a factorial number|factorial|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/factorial/count_digit_of_factorial_number.cpp)|
 
-
-## Searching
-|NO.|Problem's Link |Tag |Solution |
-|:----:|:-----:|:---:|:-----:|
-
-
-## Sorting
-|NO.|Problem's Link |Tag |Solution |
-|:----:|:-----:|:---:|:-----:|
-
 ## Graph
 |NO. |Problem's Link |Tag |Solution |
 |:---:|:--:|:----:|:--:|
@@ -132,8 +119,6 @@
 |4|[1971. Find if Path Exists in Graph(LeetCode)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/1971.%20Find%20if%20Path%20Exists%20in%20Graph.cpp)|
 |5|BFS grid|BFS|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/Graph/bfs_grid.cpp)|
 |6|[]()||[Solution]()|
-|7|[]()||[Solution]()|
-|8|[]()||[Solution]()|
 
 
 ## Bitmasks
@@ -149,11 +134,6 @@
 |:---:|:--:|:----:|:--:|
 |1|[B. String LCM(Codeforces)](https://codeforces.com/contest/1473/problem/B)|string lcm|[solution](https://github.com/Shakil-RU/Algorithm/blob/main/String%20Processing/B.%20String%20LCM.cpp)|
 |2|[]()||[solution]()|
-|3|[]()||[solution]()|
-|4|[]()||[solution]()|
-|5|[]()||[solution]()|
-|6|[]()||[solution]()|
-
 
 
 
