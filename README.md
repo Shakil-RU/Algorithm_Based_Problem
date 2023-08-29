@@ -1,6 +1,7 @@
+Name: Abdullah Numan Shakil. </br>
+Dept. of Computer Science & Engineering.</br>
+University of Rajshahi.
 # Design and Analysis of Algorithm
-
-
 
 ## STL
 |NO.|Problem's Link |Tag |Solution |
